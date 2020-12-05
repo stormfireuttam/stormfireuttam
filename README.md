@@ -31,6 +31,13 @@
     <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img
 </p>
-<br />
-<br />
+<br /><br />
+    
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  <img align="left" alt="Stormfire's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stormfireuttam&show_icons=true&hide_border=true" />
+</details>
+
 
