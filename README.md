@@ -32,10 +32,6 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img
 </p>
 <br /><br />
-    
-<p align="center">
-    <img src="https://media.giphy.com/media/Rhf0uSWt1P2TFqVMZK/giphy.gif"  width="400px"/>
-</p>
 
 
 <details>
