@@ -6,7 +6,12 @@
 
 #### 🔭 I’m currently pursuing my Undergraduation in B.Tech(Computer Science)
 #### I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐.
-<br/><br/>
+<br/>
+
+<p align="center">
+    <img src="https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1"  width="400px"/>
+</p>
+
 
 ## Connect with Me 🤝🏻
 <p>
