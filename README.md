@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1"  width="400px"/>
+    <img src="https://media4.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif?cid=ecf05e47iwacf3p5qncgcnjkbeb0gm6k14gz8r5vps673f4d&rid=giphy.gif"  width="400px"/>
 </p>
 
 
