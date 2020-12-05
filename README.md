@@ -1,6 +1,6 @@
 # Hi there, I'm Uttam - aka [StormFire] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm a competitive programmer and a data science enthusisast.
+### I'm a competitive programmer<img src="https://slackmojis.com/emojis/232-java/download"> , a data science enthusisast and web developer.
 
 <p align="center">
     <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="500px"/>
