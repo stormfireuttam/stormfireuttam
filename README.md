@@ -1,4 +1,4 @@
-# Hi there, I'm Uttam - aka [StormFire] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Uttam - aka [StormFire] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
     <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="400px"/>
@@ -11,10 +11,8 @@
 
 
 ## Connect with Me 🤝🏻
+
 <p align="center">
-    <img src="https://media4.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif?cid=ecf05e47iwacf3p5qncgcnjkbeb0gm6k14gz8r5vps673f4d&rid=giphy.gif"  width="200px"/>
-</p>
-<p>
 <a href="https://www.linkedin.com/in/uttam-mittal-33a997199/"><img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/linkedin.svg" /></a>
 <a href="https://github.com/stormfireuttam"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/github.svg" /></a>
 <a href="https://www.codechef.com/users/uttam_2909"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/codechef.svg" /></a>
