@@ -9,14 +9,17 @@
 
 
 ## Connect with Me 🤝🏻
-
+<p>
 <a href="https://www.linkedin.com/in/uttam-mittal-33a997199/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/stormfireuttam"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/github.svg" /></a>
 <a href="https://www.codechef.com/users/uttam_2909"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/codechef.svg" /></a>
 <a href="https://codeforces.com/profile/Uttam007"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/codeforces.svg" /></a>
+</p>
+<br/>
 
- ### Languages and Tools:
+ ## Languages and Tools:
 
+<p>
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
@@ -33,7 +36,7 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
-
+</p>
 <br />
 <br />
 
