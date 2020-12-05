@@ -11,8 +11,7 @@
 
 
 ## Connect with Me 🤝🏻
-
-<p align="center">
+<p>
 <a href="https://www.linkedin.com/in/uttam-mittal-33a997199/"><img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/linkedin.svg" /></a>
 <a href="https://github.com/stormfireuttam"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/github.svg" /></a>
 <a href="https://www.codechef.com/users/uttam_2909"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/codechef.svg" /></a>
