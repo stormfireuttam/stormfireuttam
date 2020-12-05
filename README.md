@@ -33,9 +33,5 @@
 </p>
 <br /><br />
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Stormfire's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stormfireuttam&show_icons=true&hide_border=true" />
-</details>
+<img align="left" alt="Stormfire's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stormfireuttam&show_icons=true&hide_border=true" />
 
