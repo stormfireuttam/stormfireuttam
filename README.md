@@ -1,4 +1,10 @@
-### Hi there, I'm Uttam - aka [StormFire][https://github.com/stormfireuttam] 👋 
+# Hi there, I'm Uttam - aka [StormFire] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+### I'm a competitive programmer and a data science enthusisast.
+
+<p align="center">
+    <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="500px"/>
+</p>
 
 <!--
 **stormfireuttam/stormfireuttam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
