@@ -32,6 +32,9 @@
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img
 </p>
 <br /><br />
+    
 
-<img align="left" alt="Stormfire's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stormfireuttam&show_icons=true&hide_border=true" />
+[![Stormfire's github stats](https://github-readme-stats.vercel.app/api?username=stormfire&count_private=true&show_icons=true&icon_color=2f80ed)]
+
+
 
