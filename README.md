@@ -3,9 +3,9 @@
 <p align="center">
     <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="600px"/>
 </p>
-I’m currently pursuing my Undergraduation in B.Tech(Computer Science)
-I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐
-👯 I'm looking to work on open source projects
+I’m currently pursuing my Undergraduation in B.Tech(Computer Science).
+I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐.
+I'm looking to work on open source projects 👯.
 <br/>
 
 
