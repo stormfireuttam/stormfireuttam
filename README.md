@@ -3,9 +3,8 @@
 <p align="center">
     <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="600px"/>
 </p>
-
-#### 🔭 I’m currently pursuing my Undergraduation in B.Tech(Computer Science)
-#### I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐.
+<p>I’m currently pursuing my Undergraduation in B.Tech(Computer Science)</p>
+<p>I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐</p>
 <br/>
 
 
