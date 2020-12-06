@@ -3,10 +3,11 @@
 <p align="center">
     <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="600px"/>
 </p>
-<p>I’m currently pursuing my Undergraduation in B.Tech(Computer Science)</p>
-<p>I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐</p>
-<p>I'm looking for open source projects to contribute</p>
+I’m currently pursuing my Undergraduation in B.Tech(Computer Science)
+I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐
+👯 I'm looking to work on open source projects
 <br/>
+
 
 
 
