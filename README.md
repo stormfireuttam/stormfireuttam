@@ -34,7 +34,7 @@
 <br /><br />
     
 
-[![Stormfire's github stats](https://github-readme-stats.vercel.app/api?username=stormfireuttam&count_private=true&show_icons=true&icon_color=2f80ed)
+![Stormfire's github stats](https://github-readme-stats.vercel.app/api?username=stormfireuttam&count_private=true&show_icons=true&icon_color=2f80ed)
 
 
 
