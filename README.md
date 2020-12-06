@@ -1,7 +1,7 @@
 # Hi there, I'm Uttam - aka [StormFire] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 <p align="center">
-    <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="400px"/>
+    <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="600px"/>
 </p>
 
 #### 🔭 I’m currently pursuing my Undergraduation in B.Tech(Computer Science)
