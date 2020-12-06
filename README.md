@@ -5,6 +5,7 @@
 </p>
 <p>I’m currently pursuing my Undergraduation in B.Tech(Computer Science)</p>
 <p>I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐</p>
+<p>I'm looking for open source projects to contribute</p>
 <br/>
 
 
