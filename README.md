@@ -34,7 +34,9 @@
 <br /><br />
     
 
-![Stormfire's github stats](https://github-readme-stats.vercel.app/api?username=stormfireuttam&count_private=true&show_icons=true&icon_color=2f80ed)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=true&theme=tokyonight&line_height=48" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfireuttam&count_private=true&theme=tokyonight">
+</p>
 
 
