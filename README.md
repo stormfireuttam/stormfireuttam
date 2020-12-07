@@ -37,6 +37,7 @@
     </a>
     <a href="https://www.hackerearth.com/@uttam29mitta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Hackerearth" height="30" width="40" /></a>
 </p>
+<br/>
 
  ## Languages and Tools:
 <p>
@@ -52,7 +53,7 @@
     <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img
 </p>
-    
+<br/>    
 <br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=true&theme=tokyonight&line_height=48" />
