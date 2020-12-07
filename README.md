@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Data Structures and Algorithms to sharpen my coding skills.
 - 👯 I’m looking to collaborate on open source projects related to data science, web development and problem solving. 
 
-<br/><br/>
+<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormfireuttam&label=Profile%20views&color=0e75b6&style=flat" alt="stormfireuttam" /> </p>
 <p align="left"> 
