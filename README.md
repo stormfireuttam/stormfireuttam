@@ -8,12 +8,13 @@
 - 🌱 I’m currently learning Data Structures and Algorithms to sharpen my coding skills.
 - 👯 I’m looking to collaborate on open source projects related to data science, web development and problem solving. 
 
+<br/><br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stormfireuttam&label=Profile%20views&color=0e75b6&style=flat" alt="stormfireuttam" /> </p>
-
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stormfireuttam" alt="stormfireuttam" /></a> 
 </p>
+<br/>
 
 ## Connect with Me 🤝🏻
 <p>
@@ -38,7 +39,7 @@
     <a href="https://www.hackerearth.com/@uttam29mitta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="Hackerearth" height="30" width="40" /></a>
 </p>
 <br/>
-
+<br/>
 
  ## Languages and Tools:
 <p>
@@ -54,9 +55,9 @@
     <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img
 </p>
-<br /><br />
+<br/><br />
     
-
+<br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=true&theme=tokyonight&line_height=48" />
   <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfireuttam&count_private=true&theme=tokyonight">
