@@ -22,7 +22,7 @@
 <a href="https://github.com/stormfireuttam"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/github.svg" /></a>
 <a href="https://www.codechef.com/users/uttam_2909"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/codechef.svg" /></a>
 <a href="https://codeforces.com/profile/Uttam007"><img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.0.1/icons/codeforces.svg" /></a>
- [![Mail](https://img.shields.io/badge/-uttam29mittal@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:uttam29mittal@gmail.com)
+ [Mail](https://img.shields.io/badge/-uttam29mittal@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)(mailto:uttam29mittal@gmail.com)
 
 </p>
 <br/><br/><br/>
