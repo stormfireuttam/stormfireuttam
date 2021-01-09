@@ -59,9 +59,9 @@
     <img src="https://media.giphy.com/media/SlWursleWACGY/giphy.gif"  width="300px"/>
 </p>
 <br/>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=trueline_height=48" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfireuttam&count_private=true">
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=trueline_height=48" />
+<!--   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfireuttam&count_private=true"> -->
 </p>
 
 
