@@ -54,7 +54,10 @@
     <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" /> <img
 </p>
-<br/>    
+<br/>
+    <p align="center">
+    <img src="https://media.giphy.com/media/SlWursleWACGY/giphy.gif"  width="300px"/>
+</p>
 <br/>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=true&theme=tokyonight&line_height=48" />
