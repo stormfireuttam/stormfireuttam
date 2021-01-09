@@ -60,8 +60,8 @@
 </p>
 <br/>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=true&theme=tokyonight&line_height=48" />
-  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfireuttam&count_private=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=trueline_height=48" />
+  <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfireuttam&count_private=true">
 </p>
 
 
