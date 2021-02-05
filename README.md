@@ -4,7 +4,7 @@
     <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="600px"/>
     
 - 🔭 I’m currently pursuing my Undergraduation in B.Tech(Computer Science).
-- I'm a competitive programmer👨‍💻, a data science enthusiast📈 and a web developer🌐.
+- I'm a competitive programmer👨‍💻 and a newbie software developer🌐.
 - 🌱 I’m currently learning Data Structures and Algorithms to sharpen my coding skills.
 - 👯 I’m looking to collaborate on open source projects related to data science, web development and problem solving. 
 
@@ -61,7 +61,7 @@
 <br/>
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=stormfireuttam&show_icons=trueline_height=48" />
-<!--   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfireuttam&count_private=true"> -->
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stormfireuttam&count_private=true">
 </p>
 
 
