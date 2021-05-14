@@ -6,7 +6,7 @@
 - 🔭 I’m currently pursuing my Undergraduation in B.Tech(Computer Science).
 - I'm a competitive programmer👨‍💻 and a newbie software developer🌐.
 - 🌱 I’m currently learning Data Structures and Algorithms to sharpen my coding skills.
-- 👯 I’m looking to collaborate on open source projects related to data science, web development and problem solving. 
+- 👯 I’m looking to collaborate on open source projects related to data science, web development and android development. 
 
 <br/>
 
