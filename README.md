@@ -3,9 +3,11 @@
 <p align="center">
     <img src="https://media.giphy.com/media/WOb8EeFziTQNE02WXs/giphy.gif"  width="600px"/>
     
-- I'm a competitive programmer👨‍💻 and a newbie software developer🌐.
-- 🌱 I’m currently learning Data Structures and Algorithms to sharpen my coding skills.
-- 👯 I’m looking to collaborate on projects related to data science, web development and android development. 
+- I'm a data engineer👨‍💻 and competitive programmer🌐.
+- 🌱 I’m currently sharpening my skills in Big Data Architecture, Cloud Services in Azure and data pipelines.
+- 👯 I’m looking to collaborate on projects related to data engineering, cloud technologies and big data analytics. 
+- ❓ Ask me about anything related to SQL, Python and Hadoop related technologies
+
 
 <br/>
 
